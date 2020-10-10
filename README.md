@@ -1,2 +1,2 @@
 # CSS Card Animation
-css card trick inspired by CSS Tricks!
+CSS card trick inspired by CSS Tricks!
